@@ -19,7 +19,7 @@
  
 <div align="center">
   <a href="https://github.com/Mat-P1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mat-P1&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-P1&layout=compact&theme=tokyonight"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Mat-P1&show_icons=true&theme=tokyonight"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-P1&layout=compact&theme=tokyonight"/>
   </a>
 </div>  
