@@ -3,7 +3,7 @@
 * 👨‍💻 Estudante de Desenvolvimento de Sistemas
 * 📂 Aqui estão todos os meus projetos e atividades.
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mat-P1&show_icons=true&theme=tokyonight)
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mat-P1&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-P1&layout=compact&theme=tokyonight)](https://github.com/Mat-P1)
 
 ## Tecnologias e Linguagens
 
