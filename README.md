@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br/>
   
-[![My Skills](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,mongodb,bootstrap&theme=dark)](https://skillicons.dev)
   
 ##  
  
