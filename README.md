@@ -1,7 +1,7 @@
-### Olá! Me chamo Mateus 👋
+### Olá! Me chamo Mateus 
 
-* 👨‍💻 Estudante de Desenvolvimento de Sistemas
-* 📂 Aqui estão todos os meus projetos e atividades.
+* Estudante de Análise e Desenvolvimento de Sistemas
+* Aqui estão todos os meus projetos e atividades.
 
 ## Tecnologias e Linguagens
 
