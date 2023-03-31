@@ -9,6 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,git,github&theme=dark)](https://skillicons.dev)
  
+ ### Linguagens em aprendizado
+ 
+ [![My Skills](https://skillicons.dev/icons?i=javascript,mongodb&theme=dark)](https://skillicons.dev)
+ 
 ##  
  
  <div align="center">
