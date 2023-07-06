@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,git,github&theme=dark)](https://skillicons.dev)
  
- ### Linguagens em aprendizado
+ ### Tecnologias e Linguagens em aprendizado
  
  [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
  
