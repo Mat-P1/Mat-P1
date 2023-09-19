@@ -11,7 +11,7 @@
  
  ### Tecnologias e Linguagens em aprendizado
  
- [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet&theme=dark)](https://skillicons.dev)
  
 ##  
  
