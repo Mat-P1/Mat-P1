@@ -1,9 +1,9 @@
-### Olá! Me chamo Mateus 
+### Hello! My name is Mateus
 
-* Estudante de Análise e Desenvolvimento de Sistemas
-* Aqui estão todos os meus projetos e atividades.
+* I'm a student of Systems Analysis and Development. 
+* Here are all my projects and assignments.
 
-### Tecnologias e Linguagens
+### Technologies and Programming Languages
 
 <div style="display: inline_block"><br/>
 
