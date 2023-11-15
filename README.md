@@ -1,6 +1,6 @@
 ### Hello! My name is Mateus
 
-* I'm a student of Systems Analysis and Development. 
+* Systems Analysis and Development. 
 * Here are all my projects and assignments.
 
 ### Technologies and Programming Languages
